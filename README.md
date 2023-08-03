@@ -1,5 +1,5 @@
 # Dokumentasi Tugas Akhir Grafika Komputer 
-Projek tugas akhir mata kuliah Grafika Komputer dengan dosen pengampu bapak Ahmad Azhari, S.Kom, M.Eng. 
+Projek tugas akhir mata kuliah Grafika Komputer dengan dosen pengampu Ahmad Azhari, S.Kom, M.Eng. 
 
 **Header yang digunakan :**
 - windowh.h
@@ -28,4 +28,8 @@ Cara Menjalankan Program :
   -lfreeglut
   -lglu32 ]
 ```
+- tekan OK
+- *copy-paste* kan code program file "main.cpp" pada file project mu
+- jalankan program / tekan f11
+
 

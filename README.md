@@ -23,8 +23,9 @@ Cara Menjalankan Program :
 - pilih Project Options
 - pilh tab Parameters
 - masukan linker dengan sintaks berikut :
-  [-lopengl32
+```
+  -lopengl32
   -lfreeglut
   -lglu32 ]
-
+```
 

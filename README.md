@@ -26,7 +26,7 @@ Projek tugas akhir mata kuliah Grafika Komputer dengan dosen pengampu Ahmad Azha
 ```
   -lopengl32
   -lfreeglut
-  -lglu32 ]
+  -lglu32
 ```
 - tekan OK
 - *copy-paste* kan code program file "main.cpp" pada file project mu

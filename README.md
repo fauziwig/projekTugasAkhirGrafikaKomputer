@@ -13,7 +13,7 @@ Projek tugas akhir mata kuliah Grafika Komputer dengan dosen pengampu Ahmad Azha
 
 **IDE yang digunakan :** Dev C++
 
-Cara Menjalankan Program :
+**Cara Menjalankan Program :**
 - Buat projek baru pada Dev C++,
 - masukan nama project(nama bebas),
 - pilih bahasa C++ project, 

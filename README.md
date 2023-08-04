@@ -31,5 +31,9 @@ Projek tugas akhir mata kuliah Grafika Komputer dengan dosen pengampu Ahmad Azha
 - tekan OK
 - *copy-paste* kan code program file "main.cpp" pada file project mu
 - jalankan program / tekan f11
+  
+![Screenshot (374)](https://github.com/fauziwig/projekTugasAkhirGrafikaKomputer/assets/101690263/8321853d-a416-4142-be9c-2cf4ac8b0d06)
+
+
 ## 
 `Semoga Membantu `

@@ -9,7 +9,7 @@ Projek tugas akhir mata kuliah Grafika Komputer dengan dosen pengampu Ahmad Azha
 
 **Output tampilan :** 
 - objek 3D bus biru dengan detail jendela, lampu, roda, dan pintu.
-- objek bus berjalan di atas jalan raya yang memiliki trotoar, kemudian dikelilingi kota kota dan pohon pohon
+- objek bus berjalan di atas jalan raya yang memiliki trotoar, kemudian dikelilingi kota dan pohon
 
 **IDE yang digunakan :** Dev C++
 
